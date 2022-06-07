@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Network Gear Data" max_length="40" name="x_58872_needit_network_gear_data" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Can partition VLANs" label="Can partition VLANs" max_length="40" name="u_can_partition_vlans" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Can route IP" label="Can route IP" max_length="40" name="u_can_route_ip" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Can switch IP" label="Can switch IP" max_length="40" name="u_can_switch_ip" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=IP Address" label="IP Address" max_length="40" name="u_ip_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Manufacturer" label="Manufacturer" max_length="40" name="u_manufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+    </element>
+</database>
